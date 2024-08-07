@@ -1,0 +1,19 @@
+function mostrarMensaje(){
+    document.getElementById('text2').style.display = "block";
+}
+
+function ocultarMensaje(){
+    document.getElementById('text2').style.display = "none";
+}
+
+function agrandarImagen(){    
+    document.getElementById('img1').style.width = "100%";
+}
+
+function normalizarImagen(){
+    document.getElementById('img1').style.width = "20%";
+}
+
+function agrandarLetra(){
+    document.getElementById('caja3').style.fontSize = "200%";
+}
