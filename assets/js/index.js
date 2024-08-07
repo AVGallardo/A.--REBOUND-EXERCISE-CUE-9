@@ -7,11 +7,11 @@ function ocultarMensaje(){
 }
 
 function agrandarImagen(){    
-    document.getElementById('img1').style.width = "100%";
+    document.getElementById('img').style.width = "100%";
 }
 
 function normalizarImagen(){
-    document.getElementById('img1').style.width = "20%";
+    document.getElementById('img').style.width = "20%";
 }
 
 function agrandarLetra(){
